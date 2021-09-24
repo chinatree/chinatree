@@ -3,9 +3,7 @@
 - 昵称：小树
 - 签名：一名专注拧螺丝钉的运维老兵
 - 邮箱：chinatree2012@gmail.com
-- 域名：https://yuntree.com
 - 职业：运维开发
-
 - 行业：互联网、安防、游戏
 
 
@@ -23,30 +21,66 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg"><br><br>
       </td>
       <td width="25%" align="center">
-        <span>Bash</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/bash.svg"><br><br>
-      </td>
-      <td width="25%" align="center">
-        <span>Vim</span><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/vim.svg"><br><br>
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Ubuntu</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/ubuntu.svg"><br><br>
-      </td>
-      <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg"><br><br>
       </td>
+      <td width="25%" align="center">
+        <span>Jenkins</span><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/jenkins.svg"><br><br>
+      </td>
+    </tr>
+    <tr valign="top">
       <td width="25%" align="center">
         <span>Kubernetes</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/kubernetes.svg"><br><br>
       </td>
       <td width="25%" align="center">
         <span>Docker</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/docker.svg"><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/docker.svg"><br><br>
+      </td>
+      <td width="25%" align="center">
+        <span>Prometheus</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/prometheus.svg"><br><br>
+      </td>
+      <td width="25%" align="center">
+        <span>Grafana</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/grafana.svg"><br><br>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>Nginx</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nginx.svg"><br><br>
+      </td>
+      <td width="25%" align="center">
+        <span>MongoDB</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg"><br><br>
+      </td>
+      <td width="25%" align="center">
+        <span>MySQL</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg"><br><br>
+      </td>
+      <td width="25%" align="center">
+        <span>InfluxDB</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/influxdb.svg"><br><br>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>Kafka</span><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/kafka.svg"><br><br>
+      </td>
+      <td width="25%" align="center">
+        <span>Etcd</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/etcd.svg"><br><br>
+      </td>
+      <td width="25%" align="center">
+        <span>RabbitMQ</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/rabbitmq.svg"><br><br>
+      </td>
+      <td width="25%" align="center">
+        <span>Redis</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/redis.svg"><br><br>
       </td>
     </tr>
     <tr valign="top">
@@ -69,30 +103,20 @@
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>MongoDB</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg"><br><br>
+        <span>Ubuntu</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/ubuntu.svg"><br><br>
       </td>
       <td width="25%" align="center">
-        <span>Redis</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/redis.svg"><br><br>
+        <span>Bash</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/bash.svg"><br><br>
       </td>
       <td width="25%" align="center">
-        <span>MySQL</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg"><br><br>
+        <span>Vim</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/vim.svg"><br><br>
       </td>
       <td width="25%" align="center">
-        <span>InfluxDB</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/influxdb.svg"><br><br>
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Prometheus</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/prometheus.svg"><br><br>
-      </td>
-      <td width="25%" align="center">
-        <span>Grafana</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/grafana.svg"><br><br>
+        <span>Markdown</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/markdown.svg"><br><br>
       </td>
     </tr>
   </tbody>
